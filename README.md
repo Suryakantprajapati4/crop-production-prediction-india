@@ -81,22 +81,28 @@ India has over 1.3 billion people and agriculture is the backbone of its economy
 ## 📈 Key Visualizations
 
 ### Top 10 Crops by Production
-![Top Crops](images/chart1_top_crops.png)
+<img width="1189" height="490" alt="Top 10 Crops by Production" src="https://github.com/user-attachments/assets/865451bd-5008-4514-9548-fcc3377fdc03" />
+
 
 ### Top 10 States by Production
-![Top States](images/chart2_top_states.png)
+<img width="1189" height="490" alt="Top 10 States by Production" src="https://github.com/user-attachments/assets/47bec5b7-f44d-4038-a632-7f8a6a2a47fc" />
+
 
 ### Production by Season
-![Season](images/chart3_season.png)
+<img width="989" height="490" alt="Production by Season" src="https://github.com/user-attachments/assets/ec4146ec-4247-4483-8f4d-d7d4cc8400b0" />
+
 
 ### Year-wise Production Trend
-![Trend](images/chart4_year_trend.png)
+<img width="1189" height="490" alt="Year-wise Production Trend" src="https://github.com/user-attachments/assets/721840c3-281d-4fbe-a790-815f8bcfcfea" />
+
 
 ### Actual vs Predicted (Random Forest)
-![Predicted](images/chart5_actual_vs_predicted.png)
+<img width="989" height="490" alt="Random Forest" src="https://github.com/user-attachments/assets/36ca5101-68c5-4b62-a0f2-f4907fee80a1" />
+
 
 ### Feature Importance
-![Features](images/chart6_feature_importance.png)
+<img width="790" height="490" alt="Feature" src="https://github.com/user-attachments/assets/f44c1085-2773-46b9-ace4-75e0bdadc32e" />
+
 
 ---
 
@@ -161,7 +167,7 @@ India has over 1.3 billion people and agriculture is the backbone of its economy
 
 **Suryakant Prajapati**  
 Data Science & ML Intern — UpSkill Campus  
-🔗 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/suryakant-prajapati/) | 💻 [GitHub](https://github.com/Suryakantprajapati4)
 
 ---
 
